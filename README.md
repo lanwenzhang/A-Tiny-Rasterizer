@@ -1,5 +1,5 @@
 # A-Tiny-Rasterizer
-Learn how to create a tiny rasterization render based on ssloy/tinyrenderer tutorial
+Create a tiny rasterization render by referring to ssloy/tinyrenderer tutorial
 
 ### Step 1 Draw Lines with Bresenham's Line Algorithm
 
