@@ -10,3 +10,5 @@ Create a tiny rasterization render by referring to ssloy/tinyrenderer tutorial
 ### Step 3 Triangle Shading
 ![Step3](https://github.com/lanwenzhang/A-Tiny-Rasterizer/assets/86000552/351a8879-80cb-48dd-815e-1a8715c8b26b)
 
+### Step 4 Z-Buffer
+![Step4](https://github.com/lanwenzhang/A-Tiny-Rasterizer/assets/86000552/8eae829c-63e1-4a07-be2d-b8ba423820b9)
